@@ -1,0 +1,27 @@
+{
+  "name": "rosadurante",
+  "version": "0.2.0",
+  "description": "Rosa Durante personal website.",
+  "author": "rosa-durante",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/rosadurante/rosadurante.git"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-connect": "~0.5.0",
+    "grunt-open": "~0.2.2",
+    "grunt-contrib-less": "~0.7.0"
+  },
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-connect": "~0.5.0",
+    "grunt-contrib-less": "~0.7.0",
+    "grunt-open": "~0.2.2"
+  }
+}
